@@ -1,2 +1,2 @@
 # trash-old-content
-Delete all post and related contents within a time frame 
+Delete all old wordpress post and related contents within a time frame. 
